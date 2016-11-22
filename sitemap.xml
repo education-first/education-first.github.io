@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://education-first.github.io/blog/archives/</loc>
+<loc>http://efsuck.com/blog/2016/11/19/who-administer-ef/</loc>
+<lastmod>2016-11-19T23:50:21+08:00</lastmod>
 </url>
 <url>
-<loc>http://education-first.github.io/</loc>
+<loc>http://efsuck.com/blog/2016/11/19/efcheat/</loc>
+<lastmod>2016-11-19T23:50:21+08:00</lastmod>
+</url>
+<url>
+<loc>http://efsuck.com/blog/2016/11/19/ef-expose-video/</loc>
+<lastmod>2016-11-19T23:50:21+08:00</lastmod>
+</url>
+<url>
+<loc>http://efsuck.com/blog/archives/</loc>
+</url>
+<url>
+<loc>http://efsuck.com/blog/support/</loc>
+</url>
+<url>
+<loc>http://efsuck.com/</loc>
+</url>
+<url>
+<loc>http://efsuck.com/blog/categories/jie-lu-ying-fu/</loc>
+</url>
+<url>
+<loc>http://efsuck.com/blog/categories/ying-fu-wei-quan-jing-li/</loc>
 </url>
 </urlset>

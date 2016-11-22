@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://education-first.github.io/sitemap.xml 
+Sitemap: http://efsuck.com/sitemap.xml 
