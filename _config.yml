@@ -7,7 +7,8 @@ title: 英孚退款
 subtitle: 一个为英孚受害者维权的网站.
 author: 英孚受害者
 simple_search: https://www.google.com/search
-description:
+description: 曝光英孚黑幕，为英孚学员维权，帮助英孚学员退款
+keywords: 英孚维权,英孚退款,英孚欺诈,英语培训,EF英孚教育
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -97,7 +98,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+#google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
