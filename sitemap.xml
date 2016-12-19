@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.efsuck.com/blog/2016/12/18/leave-ef/</loc>
+<lastmod>2016-12-18T22:09:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://www.efsuck.com/blog/2016/12/05/ef-threaten-students/</loc>
 <lastmod>2016-12-05T21:13:14+08:00</lastmod>
 </url>
@@ -45,5 +49,8 @@
 </url>
 <url>
 <loc>http://www.efsuck.com/blog/categories/ying-fu-tui-kuan-zhi-nan/</loc>
+</url>
+<url>
+<loc>http://www.efsuck.com/blog/categories/ying-fu-xue-yuan-tou-su/</loc>
 </url>
 </urlset>
