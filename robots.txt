@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.efsuck.com/sitemap.xml 
+Sitemap: http://efsuck.com/sitemap.xml 
