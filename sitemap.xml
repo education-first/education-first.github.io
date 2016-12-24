@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.efsuck.com/blog/2016/12/24/ef-is-a-misappropriating-tool/</loc>
+<lastmod>2016-12-24T14:40:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://www.efsuck.com/blog/2016/12/22/ef-is-not-as-good-as-reading-it-again-friends-of-the-harvest/</loc>
 <lastmod>2016-12-22T22:56:00+08:00</lastmod>
 </url>
@@ -71,5 +75,8 @@
 </url>
 <url>
 <loc>http://www.efsuck.com/blog/categories/ying-fu-yuan-gong-zi-pu/</loc>
+</url>
+<url>
+<loc>http://www.efsuck.com/posts/2/</loc>
 </url>
 </urlset>
