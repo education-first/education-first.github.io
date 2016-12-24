@@ -60,4 +60,4 @@ categories: 英孚维权经历
 
 那个负责人还说：你作为一个成年人你要为自己的行为负责！我是成年人没错，成年人就不会上当受骗了吗？成年人就不能为自己维权了吗？你们英孚就能以此来逃避欺骗成年人的责任吗！！
 
-> 原文：[https://www.zhihu.com/question/37008519](https://www.zhihu.com/question/37008519)
+> 原文：[知乎](https://www.zhihu.com)
