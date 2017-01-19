@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.efsuck.com/blog/2017/01/19/ef-candy/</loc>
+<lastmod>2017-01-19T22:25:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://www.efsuck.com/blog/2017/01/18/ef-1818/</loc>
 <lastmod>2017-01-18T23:55:00+08:00</lastmod>
 </url>
@@ -151,9 +155,6 @@
 <loc>http://www.efsuck.com/blog/categories/ying-fu-yuan-gong-zi-pu/</loc>
 </url>
 <url>
-<loc>http://www.efsuck.com/posts/2/</loc>
-</url>
-<url>
-<loc>http://www.efsuck.com/posts/3/</loc>
+<loc>http://www.efsuck.com/blog/categories/pu-guang-ying-fu-yuan-gong-e-xing/</loc>
 </url>
 </urlset>
