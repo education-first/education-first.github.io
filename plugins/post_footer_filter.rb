@@ -14,7 +14,7 @@ module AppendFooterFilter
      post.content + %Q[<p class='post-footer'>
             #{pre or "original link:"}
             <a href='#{post.full_url}'>#{post.full_url}</a><br/>
-            本网站内容皆为转载，对内容不负任何责任。如果问题，请联系原文作者。
+            本网站内容皆为转载，对内容不负任何责任。
             </p>]
   end 
 
