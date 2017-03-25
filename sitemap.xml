@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.efsuck.com/blog/2017/03/25/act-premier/</loc>
+<lastmod>2017-03-25T13:10:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://www.efsuck.com/blog/2017/03/05/ef-afraid/</loc>
 <lastmod>2017-03-05T11:15:00+08:00</lastmod>
 </url>
@@ -191,5 +195,17 @@
 </url>
 <url>
 <loc>http://www.efsuck.com/blog/categories/pu-guang-ying-fu-yuan-gong-e-xing/</loc>
+</url>
+<url>
+<loc>http://www.efsuck.com/blog/categories/ji-ti-wei-quan/</loc>
+</url>
+<url>
+<loc>http://www.efsuck.com/posts/2/</loc>
+</url>
+<url>
+<loc>http://www.efsuck.com/posts/3/</loc>
+</url>
+<url>
+<loc>http://www.efsuck.com/posts/4/</loc>
 </url>
 </urlset>
