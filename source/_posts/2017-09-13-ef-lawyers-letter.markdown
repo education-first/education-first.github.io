@@ -7,7 +7,7 @@ categories: 揭露英孚
 keywords: 英孚违法,英孚律师函,英孚恐吓,英孚恐吓学员
 ---
 最近发生一件挺逗的事，英孚给我们网站发律师函了(2017年8月25日)，要求我们关闭网站，并各种威胁我们。邮件是这样的：
-![有关立即关闭efsuck.com网站的律师函](http://wx2.sinaimg.cn/mw690/81576abcgy1fjiavg0latj20gb0erwgs.jpg)
+![有关立即关闭efsuck.com网站的律师函](https://live.staticflickr.com/65535/48019127587_386f6f1a25_o.jpg)
 
 刘光明作为上海富杰律师事务所的合伙人亲自发信给我们，我们真是受宠若惊。
 
@@ -21,8 +21,8 @@ keywords: 英孚违法,英孚律师函,英孚恐吓,英孚恐吓学员
 
 附件里是律师函：
 <!--more-->
-![有关立即关闭efsuck.com网站的律师函](http://wx1.sinaimg.cn/mw1024/81576abcgy1fjiaosbn3bj20yh1cq7ca.jpg)
-![有关立即关闭efsuck.com网站的律师函](http://wx1.sinaimg.cn/mw690/81576abcgy1fjiaot3bdpj20yh1cqq5c.jpg)
+![有关立即关闭efsuck.com网站的律师函](https://live.staticflickr.com/65535/48019029246_0c00d1923e_o.jpg)
+![有关立即关闭efsuck.com网站的律师函](https://live.staticflickr.com/65535/48019127252_e282d7164b_o.jpg)
 
 有关：立即关闭efsuck.com网站
 
@@ -46,8 +46,8 @@ keywords: 英孚违法,英孚律师函,英孚恐吓,英孚恐吓学员
 
 真是吓人呢，我们于2017年8月28日回复了该律师函
 
-![回复：有关立即关闭efsuck.com网站的律师函](http://wx3.sinaimg.cn/mw690/81576abcgy1fjid9op1f8j20yf1cq120.jpg)
-![回复：有关立即关闭efsuck.com网站的律师函](http://wx1.sinaimg.cn/mw690/81576abcgy1fjiblg5z4bj20yf1cqdmr.jpg)
+![回复：有关立即关闭efsuck.com网站的律师函](https://live.staticflickr.com/65535/48019048408_94daef756d_o.jpg)
+![回复：有关立即关闭efsuck.com网站的律师函](https://live.staticflickr.com/65535/48019126877_52a04b6ab0_o.jpg)
 
 致 刘光明律师、EF英孚教育中国区总部：
 
@@ -72,7 +72,7 @@ efsuck.com管理人员
 ------------------------------------
 
 然后刘光明刘大律师在2017年8月29号回复了
-![刘光明刘大律师的回复](http://wx1.sinaimg.cn/mw690/81576abcgy1fjibsrfuwej20iq0cfq59.jpg)
+![刘光明刘大律师的回复](https://live.staticflickr.com/65535/48019126657_c8936cb88c_o.jpg)
 
 你好！回函收悉，我们已将该信函转交英孚处理。相信后续还会与你进一步沟通、讨论此事。
  
