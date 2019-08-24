@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.efsuck.com/blog/2019/08/24/prosecute-ef/</loc>
+<lastmod>2019-08-24T12:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://www.efsuck.com/blog/2019/06/07/gongshang-xiaoxie/</loc>
 <lastmod>2019-06-07T20:00:00+08:00</lastmod>
 </url>
@@ -221,17 +225,5 @@
 </url>
 <url>
 <loc>http://www.efsuck.com/blog/categories/ying-fu-bei-xing-zheng-chu-fa/</loc>
-</url>
-<url>
-<loc>http://www.efsuck.com/posts/2/</loc>
-</url>
-<url>
-<loc>http://www.efsuck.com/posts/3/</loc>
-</url>
-<url>
-<loc>http://www.efsuck.com/posts/4/</loc>
-</url>
-<url>
-<loc>http://www.efsuck.com/posts/5/</loc>
 </url>
 </urlset>
